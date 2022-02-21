@@ -1,0 +1,30 @@
+<Skills>
+  <element> 1. Базовая теория SDLC, STLC.</element>
+  <element> 2. Что такое клиент-серверная архитектура.</element>
+  <element> 3. HTTP Методы запросов на сервер.</element> 
+  <element> 4. Коды ответов HTTP сервера.</element> 
+  <element> 5 .Структуры HTTP запросов и ответов.</element> 
+  <element> 6. Что такое JSON, XML. Их структура.</element> 
+  <element> 7. Тестирование API через Postman (JS, автотесты API).</element> 
+  <element> 8. Снятие и чтение логов c внешнего сервера.</element> 
+  <element> 9. Снифинг http web трафика через Charles и Fiddler.</element> 
+  <element> 10. Dev Tools веб браузеров (Google Chrome, FireFox).</element> 
+  <element> 11 .VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</element> 
+  <element> 12. Мобильное тестирование.</element> 
+  <element> 13. Особенность iOS, Android, гайдлайны.</element> 
+  <element> 14. Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)</element> 
+  <element> 15. Сборка Android приложений на Android Studio.</element> 
+  <element> 16. ADB (управление андройд девайсами).</element> 
+  <element> 17. Настройка прокси и vpn на iOS и Android.</element> 
+  <element> 18. Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.</element> 
+  <element> 19. Командная строка (terminal) Linux</element> 
+  <element> 20. Основы bash скриптинг, автоматизация рутинных задач на сервере.</element> 
+  <element> 21. Доступ к удалённым серверам.</element> 
+  <element> 22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</element> 
+  <element> 23. База данных Postgres (установка, настройка и использование)</element> 
+  <element> 24. Нереляционная база данных Redis (установка, настройка и использование)</element> 
+  <element> 25. Нагрузочное тестирование в Jmeter.</element> 
+  <element> 26. Методология разработки Scrum.</element> 
+  <element> 27. Python. (Изучение основ. Создание клиент серверного приложения)</element> 
+</Skills>
+
