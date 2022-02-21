@@ -1,1 +1,13 @@
-
+<Bug_report>
+  <Bug_id>4041</Bug_id>
+  <reason>Не работает кнопка отправки заказа</reason>
+<steps_to_reproduce>
+  <Step1>Oткрыть сайт *.</Step1>
+  <Step2>Нажать по ссылке *.</Step2>
+  <Step3>Пролистать до поля *.</Step3>
+  <Step4>Ввести значение в поле *.</Step4>
+  <Step5>Попытаться нажать кнопку отправки заказа.</Step5>
+</steps_to_reproduce>
+  <actual_result>кнопка неактивна.</actual_result>
+  <Expected_result>кнопка нажимается, можно сделать заказ.</Expected_result>
+</Bug_report>
